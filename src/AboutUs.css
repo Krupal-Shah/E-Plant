@@ -1,7 +1,10 @@
+.aboutus_container{
+  width: 70%;
+}
 .about-us-container {
-    width: 1000px;
-    /* margin: 0 auto; */
-    /* padding: 20px; */
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
     /* background-color: red; */
     text-align: justify;
   }
